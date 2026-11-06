@@ -1,0 +1,13 @@
+1. This is a review of the manuscript by Liu, Vellore, Reynaga, Vyas, and Albisani entitled "Verifying Tartaglia's motion diagram for a cannonball's trajectory". I recommend major revisions.
+
+2. The title focuses just on the motion diagram but there is more to it - the abstract does not restrict itself to just the motion diagram and sets up other models but does not adequately explain them. Also the authors full last names should be given rather than initials.
+
+3. The introduction needs sources on Tartaglia - it claims he did not do abstract thought but where did Tartaglia's notion of the shape of the trajectoreis come from? It ends with something about "facilitat[ing] the hypothesis" without ever saying what that hypothesis is. A shape is drawn but the theory given is more for Galileo/Newtonian mechanics of a later understanding of how motion works during constant uniform acceleration. The introduction should start from broad and move to narrow, ending with the specific thigns to be tested, predictions, and a quick sketch of the general methods.
+
+4. The methods should include sources and specifications for key equipment more up front. A setup drawing is needed here.
+
+5. Result shsould be in meters not cm. The plot of figure 2 does not show how the measured data compare to theory, nor does fig 2 or table 1 give indication of the experimental error or spread of measurements.
+
+6. Discussion needs to refer back to specific figures. For example, under "interpretation" the authors claim Tartaglia's trajectory shape is not supported, rather it is ? but provide no data to support that. Etc.
+
+7. Only one reference is given - probably more are needed. 
